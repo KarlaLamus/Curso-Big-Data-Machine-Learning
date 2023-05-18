@@ -22,4 +22,9 @@ CONTENIDO DAY 3:
 - Prophet: Predecir series temporales, entrenar y predecir nuestro modelo, gráfica del mismo.
 
 CONTENIDO DAY 4:
-SPACEX2: Crear y añadir folium.Circle y folium.Marker, añadir un folium.Marker a marker_cluster.
+
+- SPACEX2: Crear y añadir folium.Circle y folium.Marker, añadir un folium.Marker a marker_cluster.
+
+CONTENIDO DAY 5:
+
+- Matplotlib y Seaborn: realizacion de diferentes tipos de graficos, (graficos para correlaciones, graficos para distribuciones, varios graficos en una misma figura, graficos de composiciones, graficos de comparación)
