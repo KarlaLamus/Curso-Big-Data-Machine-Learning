@@ -21,3 +21,5 @@ CONTENIDO DAY 3:
 
 - Prophet: Predecir series temporales, entrenar y predecir nuestro modelo, gráfica del mismo.
 
+CONTENIDO DAY 4:
+SPACEX2: Crear y añadir folium.Circle y folium.Marker, añadir un folium.Marker a marker_cluster.
