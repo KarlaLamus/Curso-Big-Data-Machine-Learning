@@ -11,4 +11,13 @@ CONTENIDO DAY 2:
 - Space X: transformacion a JSON y a DataFrame, reduccion de columnas, definicion de funciones, filtro de filas.
 - Space X EDA: Graficas con matplotlib, group by.
 
+CONTENIDO DAY 3:
+
+- Introducción Machine Learning: Creación de instancia y entrenamiento con ".fit(X_train,Y_train)", realizar predicciones y graficarlas, mejorar modelos con Pipeline, conjuntos test y train, hiperparametros (GridSearchCV).
+
+- Numpy: Arrays (asignar valores, cortar array), asignar valores a listas, operaciones con arrays (suma, resta, multiplicación y división), añadir constante al array, función "linspace", convertir listas en Arrays.
+
+-  Folium: realizacion de mapas con geodatos, en blanco y negro, con relieve, mapas indicadores, mapas de coropletas.
+
+- Prophet: Predecir series temporales, entrenar y predecir nuestro modelo, gráfica del mismo.
 
