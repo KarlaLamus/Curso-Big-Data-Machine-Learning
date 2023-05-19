@@ -28,3 +28,9 @@ CONTENIDO DAY 4:
 CONTENIDO DAY 5:
 
 - Matplotlib y Seaborn: realizacion de diferentes tipos de graficos, (graficos para correlaciones, graficos para distribuciones, varios graficos en una misma figura, graficos de composiciones, graficos de comparación)
+
+
+CONTENIDO DAY 6:
+
+- Funciones: definir funciones, invocar funciones, argumentos y parámetros, None (como valor nulo), reunir argumentos posicionales, variables globales. 
+- Clases: definir una clase, uso de algunas funciones como replace(), lower(), split(), count(), asignación de valor a un atributo de clase con self.attribute_name = value.
