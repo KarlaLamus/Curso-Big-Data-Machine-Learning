@@ -34,3 +34,7 @@ CONTENIDO DAY 6:
 
 - Funciones: definir funciones, invocar funciones, argumentos y parámetros, None (como valor nulo), reunir argumentos posicionales, variables globales. 
 - Clases: definir una clase, uso de algunas funciones como replace(), lower(), split(), count(), asignación de valor a un atributo de clase con self.attribute_name = value.
+
+CONTENIDO DAY 7:
+
+- Programación funcional: funciones lambda, funcion filter(), map(), programación imperativa.
