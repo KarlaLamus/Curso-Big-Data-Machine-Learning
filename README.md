@@ -1,4 +1,4 @@
-# CURSO BIG DATA - MachineLearning
+# Python - MachineLearning
 Curso Big Data de Machine Learning/ Python
 
 CONTENIDO DAY 1:
